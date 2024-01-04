@@ -1,0 +1,3 @@
+C:/Users/FALCON DUBAI/CLionProjects/Linked list project/cmake-build-debug/CMakeFiles/Linked_list_project.dir
+C:/Users/FALCON DUBAI/CLionProjects/Linked list project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/FALCON DUBAI/CLionProjects/Linked list project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
